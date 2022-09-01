@@ -1,0 +1,4 @@
+[submodule "thirdParty/ncurses"]
+	path = thirdParty/ncurses
+	url = git@github.com:miroslavjurkech/ncurses.git
+	branch = version-6.3
